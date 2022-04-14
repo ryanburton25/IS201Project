@@ -1,0 +1,47 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.imgbyu{
+    position: absolute;
+    height: 150px;
+    right: 100px;
+}
+
+.imgchurch{
+    position: absolute;
+    height: 150px;
+    left: 100px;
+}
+
+.imgitaly{
+    position: absolute;
+    height: 150px;
+    left: 100px;
+}
+
+.imgme{
+    position: absolute;
+    height: 200px;
+    right: 100px;
+}
+
+.top{
+    text-align: right;
+    right: 100px;
+}
+
+.subtitle{
+    text-align: center;
+    font-weight: bold;
+}
+
